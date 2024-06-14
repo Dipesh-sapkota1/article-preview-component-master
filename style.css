@@ -64,6 +64,7 @@ body {
   justify-content: center;
   height: 100vh;
   color: var(--clr-dark-grayish-blue);
+  padding: 20px;
 }
  
 .article {
@@ -75,7 +76,6 @@ body {
   flex-direction: column;
   max-width: 600px;
   width: 100%;
-  margin: 20px;
   position: relative;
 }
 
